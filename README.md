@@ -1,16 +1,21 @@
-### Hi there, I'm Axel 👋
+[(frontPage Image)[url]]
 
-<!--
-**basaxelm/basaxelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Axel Herbas! 👋
+[(Tw Account)[url]]
+[(LI Account)[url]]
+[(Ig Account)[url]]
+[(Fb Account)[url]]
 
-Here are some ideas to get you started:
+### Good to see you. Me?
+I'm Axel. I'm a junior dev interested in discovering new things. 
+- 🔭 I’m currently looking for my first job
+- 🌱 I’m learning Js & React
+- 📫 How to reach me: axelherbas.446@gmail.com
+- ⚡ Fun fact: I'm Junior since birth -> Axel Junior 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies and Tools:
+[(icon 1)[url]]
+[(icon 2)[url]]
+[(icon 3)[url]]
+[(icon 4)[url]]
+
