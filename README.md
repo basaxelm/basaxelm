@@ -11,7 +11,7 @@ I'm Axel. I'm a junior dev interested in discovering new things.
 - 🔭 I’m currently looking for my first job
 - 🌱 I’m learning Js & React
 - 📫 How to reach me: axelherbas.446@gmail.com
-- ⚡ Fun fact: I'm Junior since birth -> Axel Junior 
+- ⚡ Fun fact: I'm Junior but my father's name is not Axel
 
 ### Technologies and Tools:
 [(icon 1)[url]]
