@@ -1,9 +1,10 @@
 ![frontPage Image](https://github.com/basaxelm/basaxelm/blob/main/assets/bgphotoretrotech.jpg?raw=true)
 
 ## Hi people, I'm Axel! 👋
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/axherbasmontero)
-[![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://instagram.com/basaxelm)
-[![TikTok](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg)](https://tiktok.com/@cloverfdd)
+
+[![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://linkedin.com/in/axherbasmontero)
+[![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/basaxelm)
+[![TikTok](https://img.icons8.com/color/48/tiktok--v1.png)](https://tiktok.com/@cloverfdd)
 
 ### Good to see you. Me?
 I'm Axel. I'm a junior dev interested in discovering new things. 
