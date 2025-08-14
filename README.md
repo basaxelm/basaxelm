@@ -1,21 +1,14 @@
 ![frontPage Image](https://github.com/basaxelm/basaxelm/blob/main/assets/bgphotoretrotech.jpg?raw=true)
 
-## Hi there, I'm Axel Herbas! 👋
-[(Tw Account)[url]]
-[(LI Account)[url]]
-[(Ig Account)[url]]
-[(Fb Account)[url]]
+## Hi people, I'm Axel! 👋
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/axherbasmontero)
+[![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://instagram.com/basaxelm)
+[![TikTok](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg)](https://tiktok.com/@cloverfdd)
 
 ### Good to see you. Me?
 I'm Axel. I'm a junior dev interested in discovering new things. 
-- 🔭 I’m currently looking for my first job
-- 🌱 I’m learning Js & React
+- 🔭 I’m currently looking for my first IT job
+- 🌱 I’m truly interested on software development
 - 📫 How to reach me: aherbasmontero@outlook.com
 - ⚡ Fun fact: My second name is Junior but my father's name is not Axel 😑
-
-### Technologies and Tools:
-[(icon 1)[url]]
-[(icon 2)[url]]
-[(icon 3)[url]]
-[(icon 4)[url]]
 
